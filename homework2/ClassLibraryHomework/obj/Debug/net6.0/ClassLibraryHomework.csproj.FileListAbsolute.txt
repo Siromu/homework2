@@ -1,0 +1,12 @@
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\ClassLibraryHomework.csproj.AssemblyReference.cache
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\ClassLibraryHomework.GeneratedMSBuildEditorConfig.editorconfig
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\ClassLibraryHomework.AssemblyInfoInputs.cache
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\ClassLibraryHomework.AssemblyInfo.cs
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\ClassLibraryHomework.csproj.CoreCompileInputs.cache
+F:\курсы\homework2\ClassLibraryHomework\bin\Debug\net6.0\ClassLibraryHomework.deps.json
+F:\курсы\homework2\ClassLibraryHomework\bin\Debug\net6.0\ClassLibraryHomework.dll
+F:\курсы\homework2\ClassLibraryHomework\bin\Debug\net6.0\ClassLibraryHomework.pdb
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\ClassLibraryHomework.dll
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\refint\ClassLibraryHomework.dll
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\ClassLibraryHomework.pdb
+F:\курсы\homework2\ClassLibraryHomework\obj\Debug\net6.0\ref\ClassLibraryHomework.dll
